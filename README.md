@@ -56,6 +56,6 @@ Tools:       Git · VS Code · PlatformIO · KiCad
 
 ---
 
-### 🧩 BTW
+### 💻 BTW
 
 I consider “compiling without errors” one of life’s most underrated joys.

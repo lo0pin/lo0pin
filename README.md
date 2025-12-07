@@ -47,11 +47,13 @@ but I try to make each project a bit simpler, a bit clearer, and a bit more aliv
 
 ---
 
-### 🧩 Tech Stack
+### 🧩 Tech Stack - Languages: 
 
-```
-Languages:   Python · C++ · JavaScript · HTML · CSS
-```
+* [x] Python
+* [x] C++ 
+* [x] JavaScript
+* [x] HTML
+* [x] CSS
 
 ---
 

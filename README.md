@@ -2,28 +2,29 @@
 
 ### ⚡ About Me
 
-I’m a **developer, electronics enthusiast, and sailor** — equally at home on the water and in the world of microcontrollers.
-My projects blend **precision engineering** with a sense of adventure — from **Python automation scripts** to **Arduino-based flight sensors** and **smart home experiments** that make everyday life just a bit more intelligent.
+I’m an **electronics enthusiast, curious coder, and sailor** — still learning to navigate both the open sea and the vast world of programming.
+What started as tinkering with microcontrollers slowly became a way to **understand how things communicate, move, and react**.
+Most of my work lives somewhere between **Python scripts**, **Arduino projects**, and the simple joy of watching a circuit come alive.
 
 ---
 
 ### 🧠 Interests & Focus
 
-* 🐍 **Python** – data processing, automation & creative scripting
-* ⚙️ **C++ / Arduino** – sensor fusion, measurement systems & embedded logic
-* 🛰️ **Mobility & Flight Projects** – telemetry and onboard sensor systems for RC aircraft
-* 🏠 **Smart Home Systems** – integrating sensors, LEDs, and automation logic
-* 🌐 **HTML / CSS / JavaScript** – clean, efficient UIs for visualization and control
-* 🌊 **Sailing & Navigation** – blending technology with nature’s rhythm
+* 🐍 **Python** – learning data handling, automation & creative scripting
+* ⚙️ **C++ / Arduino** – exploring embedded systems, sensors & control logic
+* 🛰️ **Mobility & Flight Projects** – experimenting with telemetry and onboard sensors for RC aircraft
+* 🏠 **Smart Home Systems** – connecting everyday things through small, clever ideas
+* 🌐 **HTML / CSS / JavaScript** – building simple interfaces for data and control
+* 🌊 **Sailing & Navigation** – finding parallels between steady wind and clean code
 
 ---
 
 ### 🔬 Current Projects
 
-* 🌡️ **PyCanVisual** – GUI app for CAN bus measurement setup and visualization
-* 🧭 **BME Weather Display** – Arduino-based weather station with EEPROM persistence
-* ✈️ **RC Plane Telemetry Module** – lightweight onboard sensor node for real-time data
-* 💡 **Smart Home Controller** – Python + ESP32 system for automation & sensor integration
+* 🌡️ **PyCanVisual** – exploring GUI design for CAN bus data visualization
+* 🧭 **BME Weather Display** – experimenting with Arduino + EEPROM data logging
+* ✈️ **RC Plane Telemetry Module** – learning how flight data can tell a story
+* 💡 **Smart Home Controller** – combining Python, ESP32, and curiosity
 
 ---
 
@@ -33,15 +34,16 @@ My projects blend **precision engineering** with a sense of adventure — from *
 > but when there’s nothing left to take away.”*
 > — Antoine de Saint-Exupéry
 
-Clean code, like a well-trimmed sail, should do its job efficiently, quietly, and beautifully.
+I’m still learning what “elegance” in code really means —
+but I try to make each project a bit simpler, a bit clearer, and a bit more alive than the last.
 
 ---
 
 ### 📫 Get in Touch
 
 * 🌍 [GitHub Projects](https://github.com/)
-* 💬 Let’s talk about embedded systems, flight telemetry, or the perfect tack.
-* ☕ Always open to collaboration — especially if it involves sensors, sky, or sea.
+* 💬 Always open to learning from others — especially about embedded systems, flight telemetry, or the art of clean code.
+* ☕ Let’s build something small, thoughtful, and slightly over-engineered.
 
 ---
 
@@ -49,13 +51,13 @@ Clean code, like a well-trimmed sail, should do its job efficiently, quietly, an
 
 ```
 Languages:   Python · C++ · JavaScript · HTML · CSS
-Frameworks:  Arduino · TKinter · Matplotlib · Node.js
-Hardware:    STM32 · ESP32 · BME280 · DS3231 · RC Telemetry Systems
-Tools:       Git · VS Code · PlatformIO · KiCad
 ```
 
 ---
 
 ### 💻 BTW
 
-I consider “compiling without errors” one of life’s most underrated joys.
+I’m still at that wonderful stage where
+“compiling without errors” feels like a small miracle —
+and one of life’s most underrated joys.
+

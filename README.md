@@ -25,7 +25,7 @@ Most of my work lives somewhere between **Python scripts**, **Arduino projects**
 * **RC Plane Telemetry Module** – learning how flight data can tell a story
 
 
-## 🧭 My Coding Philosophy
+## My Coding Philosophy
 
 > *“Elegance is not when there’s nothing more to add,
 > but when there’s nothing left to take away.”*

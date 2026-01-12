@@ -20,9 +20,12 @@ Most of my work lives somewhere between **Python scripts**, **Arduino projects**
 
 ## Current Projects
 
-* exploring GUI design for data visualization
-* **BME Weather Display** – experimenting with Arduino + EEPROM data logging
-* **RC Plane Telemetry Module** – learning how flight data can tell a story
+  <ul>
+    <li>⛵ <a href="https://github.com/lo0pin/SailSense_LCD_multi-sensor_ATMEGA2560">SailSense</a> - experimenting with Arduino + EEPROM data logging</li>
+    <li>📊 <a href="https://github.com/lo0pin/web">Web-Development</a> – learning by breaking layouts</li>
+    <li>🗡️ <a href="https://github.com/lo0pin/RPG_Quest_Planer_and_Presenter">RPG Quest Designer</a> - exploring GUI design and data visualization</li>
+    <li>🎄 <a href="https://github.com/lo0pin/Advent-of-Code-Solutions">Advent of Code</a> – small puzzles, sharp thinking</li>
+  </ul>
 
 
 ## My Coding Philosophy

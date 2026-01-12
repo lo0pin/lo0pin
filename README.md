@@ -18,7 +18,7 @@ Most of my work lives somewhere between **Python scripts**, **Arduino projects**
 * **Sailing & Navigation** – finding parallels between steady wind and clean code
 
 
-## 🔬 Current Projects
+## Current Projects
 
 * exploring GUI design for data visualization
 * **BME Weather Display** – experimenting with Arduino + EEPROM data logging
